@@ -3,9 +3,9 @@
   Descripción
 El juego utiliza una baraja de póker con los siguientes valores para las cartas:
 
-As (A): 1 punto
-Números del 2 al 10: Valor nominal (2 es 2 puntos, 3 es 3 puntos, etc.)
-Jota (J), Reina (Q) y Rey (K): 11 puntos cada una
+As (A): 1 punto;	
+Números del 2 al 10: Valor nominal (2 es 2 puntos, 3 es 3 puntos, etc.);	
+Jota (J), Reina (Q) y Rey (K): 11 puntos cada una;	
 
 El objetivo del juego es obtener la mayor puntuación eligiendo cartas desde los extremos de la fila. Jugarás por turnos contra la máquina, que utiliza un algoritmo de poda alfa-beta para tomar decisiones estratégicas.
 
